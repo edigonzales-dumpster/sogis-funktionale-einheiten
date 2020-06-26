@@ -1,4 +1,4 @@
-# sogis-funktionale-einheiten
+# Funktionale Einheiten (Amt für Geoinformation Kt. Solothurn)
 
 ## Allgemein
 
